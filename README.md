@@ -6,7 +6,7 @@ Install necessary dependencies
 npm install
 ```
 2.
-Create .env file following content
+Create .env file with following contents
 ```
 MNEMONIC = "Your mnemonic"
 ROPSTEN = "wss://ropsten.infura.io/ws/v3/your api key"
